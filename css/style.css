@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+}
+
+
+
+#name {
+    position: relative;
+    float: right;
+}
+
+.sections {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 5%;
+    text-align: center;
+    border: 1px red solid;
+}
+
+.dev {
+    border: 1px black solid;
+    margin: 10px;
+    padding: 3px;
+    
+}
+.chem {
+    border: 1px black solid;
+    margin: 10px;
+    padding: 3px;
+}
+
+.bulletpoints {
+    text-align: left;
+}
+
+
+.pdf-button {
+    text-decoration: none;
+    padding:5px;
+    /* border: 1px black solid; */
+    background: linear-gradient(grey, white);
+}
